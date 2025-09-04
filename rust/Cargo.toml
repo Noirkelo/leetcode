@@ -1,0 +1,46 @@
+[[bin]]
+name = 'longest-substring-without-repeating-characters'
+path = 'src/0003.longest-substring-without-repeating-characters/solution.rs'
+
+[[bin]]
+name = 'container-with-most-water'
+path = 'src/0011.container-with-most-water/solution.rs'
+
+[[bin]]
+name = '3sum'
+path = 'src/0015.3sum/solution.rs'
+
+[[bin]]
+name = 'substring-with-concatenation-of-all-words'
+path = 'src/0030.substring-with-concatenation-of-all-words/solution.rs'
+
+[[bin]]
+name = 'trapping-rain-water'
+path = 'src/0042.trapping-rain-water/solution.rs'
+
+[[bin]]
+name = 'minimum-window-substring'
+path = 'src/0076.minimum-window-substring/solution.rs'
+
+[[bin]]
+name = 'sliding-window-maximum'
+path = 'src/0239.sliding-window-maximum/solution.rs'
+
+[[bin]]
+name = 'find-all-anagrams-in-a-string'
+path = 'src/0438.find-all-anagrams-in-a-string/solution.rs'
+
+[[bin]]
+name = 'subarray-sum-equals-k'
+path = 'src/0560.subarray-sum-equals-k/solution.rs'
+
+[dependencies]
+anyhow = '1.0.79'
+leetgo-rs = '0.2.1'
+serde = '1.0.196'
+serde_json = '1.0.113'
+
+[package]
+edition = '2021'
+name = 'leetcode-solutions'
+version = '0.1.0'
