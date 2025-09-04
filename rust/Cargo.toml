@@ -23,6 +23,10 @@ name = 'minimum-window-substring'
 path = 'src/0076.minimum-window-substring/solution.rs'
 
 [[bin]]
+name = 'binary-tree-inorder-traversal'
+path = 'src/0094.binary-tree-inorder-traversal/solution.rs'
+
+[[bin]]
 name = 'sliding-window-maximum'
 path = 'src/0239.sliding-window-maximum/solution.rs'
 
